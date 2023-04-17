@@ -1,2 +1,2 @@
-# desafioDio
+# desafios da plataforma Dio
 
